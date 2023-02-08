@@ -7,7 +7,7 @@ RWE Labs, originally founded as RWE Softworks, is a subsidiary of Ryan Walpole E
 [![GitHub](https://raw.githubusercontent.com/RWELabs/RWELabs/7242f34ddf138ff91b157c41cc3afe298a43d001/images/github-%40rwelabs.svg)](https://github.com/RWELabs)
 
 <a href="https://github.com/RWELabs/RWELabs/stardew.md"><img src= "https://github.com/RWELabs/RWELabs/blob/main/images/StardewModManagerBanner.png?raw=true" height=60px align=left></a>
-<a href="https://github.com/RWELabs/RWELabs/tbp.md"> <img src="https://github.com/RWELabs/RWELabs/blob/main/images/TBPLauncherBanner.png?raw=true" height=60px align=left> </a>
+<a href="https://github.com/RWELabs/RWELabs/tbp.md"><img src="https://github.com/RWELabs/RWELabs/blob/main/images/TBPLauncherBanner.png?raw=true" height=60px align=left></a>
 
 <a href="https://github.com/RWELabs/RWELabs/astro.md"><a href=""><img src="https://github.com/RWELabs/RWELabs/blob/main/images/AstoneerLauncherBanner.png?raw=true" height=60px padding=20px,0px,0px,0px></a>
 
