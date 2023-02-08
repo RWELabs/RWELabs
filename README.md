@@ -3,18 +3,16 @@ RWE Labs, originally founded as RWE Softworks, is a subsidiary of Ryan Walpole E
 
 ## Projects
 Jump quickly to a project to learn more, download, report bugs, suggest a feature and browse documentation and source code.
-
-<a href="https://github.com/RWELabs/RWELabs/blob/main/stardew.md"><img src= "https://github.com/RWELabs/RWELabs/blob/main/images/StardewModManagerBanner.png?raw=true" height=50px align=left></a>
+<div style="display: flex;">
+  <a href="https://github.com/RWELabs/RWELabs/blob/main/stardew.md"><img src= "https://github.com/RWELabs/RWELabs/blob/main/images/StardewModManagerBanner.png?raw=true" height=50px align=left></a>
 <a href="https://github.com/RWELabs/RWELabs/blob/main/tbp.md"> <img src="https://github.com/RWELabs/RWELabs/blob/main/images/TBPLauncherBanner.png?raw=true" height=50px align=left> </a>
 <a href="https://github.com/RWELabs/RWELabs/blob/main/astro.md"><img src="https://github.com/RWELabs/RWELabs/blob/main/images/AstroneerLauncherBanner.png?raw=true" height=50px align=left></a>
-
-<div style="page-break-after: always;"><br><br><br><br></div>
+</div>
 
 ## Get In Touch
 [![Twitter](https://raw.githubusercontent.com/RWELabs/RWELabs/e99d6b4c47d9e536b9ae072a7df72e62c1fa91fe/images/twitter-%40rwelabs.svg)](https://twitter.com/RWELabs)
 [![Website](https://raw.githubusercontent.com/RWELabs/RWELabs/e99d6b4c47d9e536b9ae072a7df72e62c1fa91fe/images/website-labs.ryanwalpole.com.svg)](https://labs.ryanwalpole.com)
 [![GitHub](https://raw.githubusercontent.com/RWELabs/RWELabs/7242f34ddf138ff91b157c41cc3afe298a43d001/images/github-%40rwelabs.svg)](https://github.com/RWELabs)
-
 
 
 <!--
