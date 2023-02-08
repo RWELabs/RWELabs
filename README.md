@@ -2,6 +2,7 @@
 
 [![Twitter](https://raw.githubusercontent.com/RWELabs/RWELabs/e99d6b4c47d9e536b9ae072a7df72e62c1fa91fe/images/twitter-%40rwelabs.svg)](https://twitter.com/RWELabs)
 [![Website](https://raw.githubusercontent.com/RWELabs/RWELabs/e99d6b4c47d9e536b9ae072a7df72e62c1fa91fe/images/website-labs.ryanwalpole.com.svg)](https://labs.ryanwalpole.com)
+[![GitHub](https://raw.githubusercontent.com/RWELabs/RWELabs/e99d6b4c47d9e536b9ae072a7df72e62c1fa91fe/images/github-%40rwelabs.svg)](https://github.com/RWELabs)
 <!--
 **RWELabs/RWELabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
