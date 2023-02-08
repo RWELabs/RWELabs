@@ -1,4 +1,4 @@
-<a href="https://github.com/RWELabs/RWELabs/blob/main/stardew.md"><img src= "https://github.com/RWELabs/RWELabs/blob/main/images/StardewModManagerBanner.png?raw=true" height=150px align=left></a>
+<a href="https://github.com/RWELabs/RWELabs/blob/main/stardew.md"><img src= "https://github.com/RWELabs/RWELabs/blob/main/images/StardewModManagerBanner.png?raw=true" height=150px></a>
 <br><br><br>
 # Stardew Valley Mod Manager
 Stardew Valley Mod Manager is one of our flagship projects. Aimed at making the installation, toggling and deleting of mods easy for the end user, this application offers a friendly interface with powerful features.
