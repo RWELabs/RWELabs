@@ -6,7 +6,7 @@ Jump quickly to a project to learn more, download, report bugs, suggest a featur
 
 <a href="https://github.com/RWELabs/RWELabs/blob/main/stardew.md"><img src= "https://github.com/RWELabs/RWELabs/blob/main/images/StardewModManagerBanner.png?raw=true" height=50px align=left></a>
 <a href="https://github.com/RWELabs/RWELabs/blob/main/tbp.md"> <img src="https://github.com/RWELabs/RWELabs/blob/main/images/TBPLauncherBanner.png?raw=true" height=50px align=left> </a>
-<a href="https://github.com/RWELabs/RWELabs/blob/main/astro.md"><img src="https://github.com/RWELabs/RWELabs/blob/main/images/AstoneerLauncherBanner.png?raw=true" height=50px align=left></a>
+<a href="https://github.com/RWELabs/RWELabs/blob/main/astro.md"><img src="https://github.com/RWELabs/RWELabs/blob/main/images/AstroneerLauncherBanner.png?raw=true" height=50px align=left></a>
 
 <br><br><br>
 
