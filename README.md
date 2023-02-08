@@ -8,7 +8,7 @@ Jump quickly to a project to learn more, download, report bugs, suggest a featur
 <a href="https://github.com/RWELabs/RWELabs/blob/main/tbp.md"> <img src="https://github.com/RWELabs/RWELabs/blob/main/images/TBPLauncherBanner.png?raw=true" height=50px align=left> </a>
 <a href="https://github.com/RWELabs/RWELabs/blob/main/astro.md"><img src="https://github.com/RWELabs/RWELabs/blob/main/images/AstroneerLauncherBanner.png?raw=true" height=50px align=left></a>
 
-<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"><br><br><br><br></div>
 
 ## Get In Touch
 [![Twitter](https://raw.githubusercontent.com/RWELabs/RWELabs/e99d6b4c47d9e536b9ae072a7df72e62c1fa91fe/images/twitter-%40rwelabs.svg)](https://twitter.com/RWELabs)
