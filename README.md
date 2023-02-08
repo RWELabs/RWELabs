@@ -6,9 +6,9 @@ RWE Labs, originally founded as RWE Softworks, is a subsidiary of Ryan Walpole E
 [![Website](https://raw.githubusercontent.com/RWELabs/RWELabs/e99d6b4c47d9e536b9ae072a7df72e62c1fa91fe/images/website-labs.ryanwalpole.com.svg)](https://labs.ryanwalpole.com)
 [![GitHub](https://raw.githubusercontent.com/RWELabs/RWELabs/7242f34ddf138ff91b157c41cc3afe298a43d001/images/github-%40rwelabs.svg)](https://github.com/RWELabs)
 
-<a href="https://github.com/RWELabs/RWELabs/stardew.md"><img src= "https://github.com/RWELabs/RWELabs/blob/main/images/StardewModManagerBanner.png?raw=true" height=60px align=left></a>
-<a href="https://github.com/RWELabs/RWELabs/tbp.md"> <img src="https://github.com/RWELabs/RWELabs/blob/main/images/TBPLauncherBanner.png?raw=true" height=60px align=left> </a>
-<a href="https://github.com/RWELabs/RWELabs/astro.md"><a href=""><img src="https://github.com/RWELabs/RWELabs/blob/main/images/AstoneerLauncherBanner.png?raw=true" height=60px style="padding-top:20px"></a>
+<a href="https://github.com/RWELabs/RWELabs/stardew.md"><img src= "https://github.com/RWELabs/RWELabs/blob/main/images/StardewModManagerBanner.png?raw=true" height=40px align=left></a>
+<a href="https://github.com/RWELabs/RWELabs/tbp.md"> <img src="https://github.com/RWELabs/RWELabs/blob/main/images/TBPLauncherBanner.png?raw=true" height=40px align=left> </a>
+<a href="https://github.com/RWELabs/RWELabs/astro.md"><a href=""><img src="https://github.com/RWELabs/RWELabs/blob/main/images/AstoneerLauncherBanner.png?raw=true" height=40px align=left></a>
 
 <!--
 **RWELabs/RWELabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
