@@ -1,5 +1,8 @@
-## About Us
+## What is RWE Labs?
 RWE Labs, originally founded as RWE Softworks, is a subsidiary of Ryan Walpole Enterprises that is responsible for passion projects and hobby software that doesn't match the type of software released by RWE. RWE Labs currently offers a suite of useful tools and programs aimed primarily at video game enthusiasts, but could be home to any number of software products. Some of our more known projects include the Stardew Valley Mod Manager.
+
+### Ryan Walpole Enterprises
+Ryan Walpole Enterprises is technology company founded by Ryan Walpole, former CEO and Founder of Pudince LLC (a subsidiary of RWE and Microsoft Corporation). In 2018, RWE was established to create and innovate to the benefit of everyone on the planet, whether through modern media, computer software or technological research. RWE Labs was founded as a subsidiary of Ryan Walpole Enterprises.
 
 ## Get In Touch
 [![Twitter](https://raw.githubusercontent.com/RWELabs/RWELabs/e99d6b4c47d9e536b9ae072a7df72e62c1fa91fe/images/twitter-%40rwelabs.svg)](https://twitter.com/RWELabs)
